@@ -8133,15 +8133,15 @@ h1, h2, h3, h4, h5,
   color: #000000;
   text-transform: uppercase;
   font-weight: 700;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 1.2;
   margin-bottom: 30px;
   font-family: "Lora", serif; }
   .navbar-brand span {
-    color: #ff7a5c; }
+    color: #ffcc00; }
   .navbar-brand small {
     display: block;
-    font-size: 13px;
+    font-size: 10px;
     font-weight: 500;
     color: rgba(0, 0, 0, 0.3);
     letter-spacing: 3px; }
